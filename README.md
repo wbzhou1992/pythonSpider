@@ -2,3 +2,4 @@
 * `saveInsFromTxt.py`  多线程抓取instagram图片保存在本地
 * `unsplash.py`  多线程抓取unsplash图片保存在本地
 * `pythonEvent.py`  从python官网抓取会议信息
+* `huxiu.py`  抓取虎嗅网ajax内容
